@@ -15,7 +15,7 @@ Analysis Tasks:
 2. Segregation of employees based on Position: Workers were divided into groups according to their roles within the organization. Then used a bar plot to visualize the position based distribution.
 3. Predominant age group among employees: Determined which age groups are most common among employees. Then used a bar plot to visualize the age based distribution.
 4. Which team and position have the highest salary expenditure: Using groupby found teams based and position based salary expenditure. Found out which position and team spend the most on salaries. Then used bar graphs to visualize the team and position based salary expenditure separately.
-5. Correlation between age and salary: Looked into the possibility of a correlation between age and salary. Then used a scatter plot to visually depict the correlation.
+5. Correlation between age and salary:  used a scatter plot to visually depict the correlation.
 
 Insights Gained:
 
